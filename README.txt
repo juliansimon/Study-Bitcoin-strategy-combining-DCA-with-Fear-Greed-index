@@ -23,3 +23,5 @@ Trends (10%)
 
 Disclaimer
 This article is not investment advice, act according to your own criteria.
+
+This notebook serves as code support for the post Study of a BTC strategy combining DCA with the Fear and Greed https://bgeometrics.com/2022/11/09/study-of-a-btc-strategy-combining-dca-with -the-fear-and-greed/
